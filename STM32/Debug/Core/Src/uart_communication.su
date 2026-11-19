@@ -1,0 +1,3 @@
+uart_communication.c:16:13:send_adc_response	32	static
+uart_communication.c:27:6:uart_communication_init	4	static
+uart_communication.c:32:6:uart_communication_fsm	24	static
